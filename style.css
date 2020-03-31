@@ -1,3 +1,9 @@
+a{
+    font-family:Monaco;
+    color:black;
+}
+
+
 
 
 .copyright{
@@ -10,11 +16,7 @@ h4{
 }
 
 body{
-/*background-color:#242852;*/
 background-color: #fff2f2;
-/*background-color: #553D67;*/
-/*background-color: #553D67;*/
-/*background-color: #553D67;*/
 }
 /*.card-body {*/
 /*    min-height: 143px;*/
