@@ -23,7 +23,10 @@ background-color: #fff2f2;
 /*}*/
 
 
-.card-header a:link, .card-header a:visited,  .card-header a:hover, .card-header a:active {
-  color: inherit;
-  text-decoration:none;
-}   
+/*#color a:link, #color a:visited,  #color a:hover, #color a:active {*/
+/*  color: black; */
+/*}*/
+
+#button{
+    color:#505775;
+}
