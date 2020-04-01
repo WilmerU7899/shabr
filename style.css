@@ -30,3 +30,7 @@ background-color: #fff2f2;
 #button{
     color:#505775;
 }
+#button:hover{
+    color:black;
+    font-size: 18px;
+}
