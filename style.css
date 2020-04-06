@@ -1,9 +1,14 @@
 a{
     font-family:Monaco;
     color:black;
+  
 }
 
-
+.navbar-brand{
+    font-family:Monaco;
+    color:black;
+    font-size:24px;
+}
 
 .copyright{
     font-size:12px;
