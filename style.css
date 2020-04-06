@@ -40,5 +40,12 @@ background-color: #fff2f2;
 }
 
 #REVIEWS{
-    font-size: 18px;   
+    font-size: 18px;
+}
+
+/*#About{*/
+/*    font-size: 18px;      */
+/*}*/
+.list-group-item{
+    font-size: 18px;
 }
