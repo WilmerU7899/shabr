@@ -43,9 +43,18 @@ background-color: #fff2f2;
     font-size: 18px;
 }
 
-/*#About{*/
-/*    font-size: 18px;      */
-/*}*/
 .list-group-item{
     font-size: 18px;
+}
+
+#About{
+    font-size: 29px;
+}
+
+#Information{
+    font-size: 29px;
+}
+
+.margin{
+    font-size:29px;
 }
